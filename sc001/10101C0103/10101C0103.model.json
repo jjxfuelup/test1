@@ -1,0 +1,16 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"10101C0103.moc",
+	"textures":[
+		"10101C0103.512/texture_00.png"
+	],
+
+"hit_areas":[{"name":"body","id":"D_REF_002"}],	"motions":{
+		"tap_body":[
+			{"file":"10101C0103b.mtn","sound":"../../YinXiao/13.mp3","fade_in":200,"fade_in":100,"fade_out":0}
+		],
+		"idle":[
+			{"file":"10101C0103a.mtn","fade_in":0,"fade_out":0}
+		]
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"10101A0101.moc",
+	"textures":[
+		"10101A0101.1024/texture_00.png",
+		"10101A0101.1024/texture_01.png"
+	],
+	"hit_areas":[{"name":"body","id":"D_REF_001"}],
+	"motions":{
+		"idle":[
+			{"file":"10101A0101a.mtn","fade_in":0,"fade_out":0}
+		],
+		"tap_body":[
+			{"file":"10101A0101b.mtn","fade_in":500,"fade_out":0}
+			
+		]
+	}
+}
